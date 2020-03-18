@@ -1,0 +1,3 @@
+# udp_socket
+udp_cli.cpp中封装了一个UDPSOCKET的类，之后完成了客户端流程的实现
+udp_srv.c中完成udp服务器流程的实现
